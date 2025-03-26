@@ -1,0 +1,1838 @@
+{
+  "modify": [
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **精灵法师被击败!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **传送25秒后将被打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say *** 禁地斯狄科 ***"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say --地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 拉法库巴封印了石碑的魔力,我们必须找到他! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say *** 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ***"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **有一名玩家化身成为了【精灵法师】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **剑上的冰已经融化了**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 传送门正在瓦解,离开这里! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 这不是斯狄科,这是哪里? **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 无人涉足之地,好在我们已经脱离了危险! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 敬请期待!感谢您的游玩! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **【雷沃尔熊人】已经苏醒了**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **【雷沃尔熊人】已被消灭 **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **所有水晶都收集完毕**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **我们需要找到埃洛斯的灵魂并让他离开这里**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 法阵正在积蓄魔力,再争取一点时间! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 传送门已开启,快离开这里! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 我们马上就要离开这里了!坚持住! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：寒霜剑**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：圣盾**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：暴风雪**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：寒风**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：精灵法师**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：重力弓**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **人类神器：冰垒**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸神器：冰环**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸神器：生命分离**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸神器：冰刺**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸神器：雷沃尔熊人**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **剩余20秒**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **水晶已经碎了**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **传送稍后开始**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **太慢了！诅咒已经开始侵蚀核心**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **快离开这里**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **蓝色**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **青色**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **绿色**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **黄色**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **橙色和红色**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **剩余15秒**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 你们犯下了弥天之罪,回来迎接你们的审判吧! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 阿拉斯正在注视着你! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **传送20秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **35秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **35秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **25秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **40秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **20秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **50秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **也许还需要防守最多10秒 :3 **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **15秒后门打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **门将在20秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **发生了意料之外的事情，水开始上涨了！**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 凡人!止步于此! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **45秒后进入埃洛斯宫殿**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后捷径路开放**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后进入埃洛斯宫殿**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **尸体中隐藏的秘密（x4）**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **40秒后炸毁岩石**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后炸毁岩石**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **炸弹将在20秒后爆炸**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在40秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在10秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **左侧拉杆已拉动**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后左侧门开放**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **尸体中隐藏的秘密（x2）**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **5秒后右侧门开放**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **右侧拉杆已拉动**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在50秒后被摧毁**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在10秒后被摧毁**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 10秒后僵尸传送 **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 大门将在30秒后被摧毁**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 大门将在5秒后被摧毁**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **尸体中隐藏的秘密（x3）**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **传送将在20秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **传送将在5秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在30秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大门将在5秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **斯狄科雪域大门将在60秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **攻击岩石的脆弱部分!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **斯狄科雪域大门将在10秒后打开**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **20秒后打开石门**\n"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **20秒后迎接最终决战**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸10秒后到来**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **幻影龙车**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **飞龙吐息**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **龙刀**\n"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **龙息**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **星落风暴**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **尾部扫击**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **大暴雪**\n"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **寒流**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **等待5秒封锁解除**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **封锁已解除，我们继续前进!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **尸体中隐藏的秘密(x1)**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **也许冰磊可以帮助我们**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **斯狄科雪域大门将在5秒后关闭**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【冰垒】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **剩余20秒**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **净化水晶已经解封**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 这将是最后一次警告! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say *** 瞭望塔玻璃以及悬崖的石头碎开! ***"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **当心!阿拉斯的幻影摧毁了桥梁!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **当心!阿拉斯的幻影摧毁了桥梁!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **当心!阿拉斯的幻影摧毁了桥梁!**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 人类!别碰我! **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say ** 20秒后升起石柱 **"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say *** 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ***"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸已经拾取了【生命分离】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **晶体被破坏，周围的空气开始凝结**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **晶体被破坏，周围的空气变得异常**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **晶体被破坏,周围的空气变得猛烈**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【埃洛斯的诅咒】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **诅咒激活**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【治疗法杖】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【暴风雪】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【寒霜剑】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【圣盾】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【寒风】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **僵尸已经拾取了【冰环】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【恶魔契约】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家与恶魔签订了契约**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **圣盾消失了**\n"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **找到部分神奇的水晶**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **找到部分暗淡的水晶**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **70秒后关闭斯狄科雪域大门**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say **一名玩家拾取了【冰垒】**"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    }
+  ]
+}

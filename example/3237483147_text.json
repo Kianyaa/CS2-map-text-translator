@@ -1,0 +1,578 @@
+{
+  "modify": [
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守30s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守30s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 击碎它"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<撤退！！！>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守30s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 击碎它"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<撤退！！！>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守10s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守20s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<僵尸5s后传送>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<等待30s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<僵尸15s后传送>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守10s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守15s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<地图原形:Crystar>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 僵尸5s后传送"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守25s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守5s，注意撤退>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say Laser!!!"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<僵尸15s后传送>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<等待20s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<等待20s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守15s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<僵尸10s后传送>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守30s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 僵尸5s后传送"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<防守25s>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<僵尸3s后传送>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 喵哈哈~~~"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say >>>推力已被拾起<<<"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say >>>剑核心就绪<<<"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<守护者—赫拉克利特>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say >>>飞剑已被拾起<<<"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say >>>恢复已被拾起<<<"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<恢复已就绪>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<恢复1/3>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<恢复2/3>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say <<<恢复3/3>>>"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 喵哈哈~~~"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 喵哈哈~~~"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    },
+    {
+      "match": {
+        "io": [
+          {
+            "overrideparam": "say 喵哈哈~~~"
+          }
+        ]
+      },
+      "replace": {
+        "io": {
+          "overrideparam": ""
+        }
+      }
+    }
+  ]
+}
