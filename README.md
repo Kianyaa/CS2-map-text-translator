@@ -9,20 +9,26 @@
 - Export Workshop_ID and Workshop Name in json
 - Using Google Translate API for translate
 
+> [!IMPORTANT] 
+> This script support only translate Chinese to English only!
+
 ## Requirements
 
 - [Python](https://www.python.org/downloads/) (version 3.9.11 atleast)
+- All dependencies in `requirements.txt`
 
 ## Installation
 
-Install [python](https://www.python.org/downloads/) and then download this [repository](https://github.com/Kianyaa/CS2-map-text-translator/archive/refs/heads/main.zip), Extract the zip file in any folder and run `batch.bat` file to install
+Install [python](https://www.python.org/downloads/) and then download this [repository](https://github.com/Kianyaa/CS2-map-text-translator/archive/refs/heads/main.zip), Extract the zip file in any folder and run `install.bat` file to install
 all Python dependencies in this script are required, The translate script will run automatically after installed dependencies
 
+> [!NOTE]  
+> `install.bat` file will automatically create virtual environment and activate it for you
 
 > [!WARNING]
-> If you have a problem with installing dependencies while running batch file
+> If you have a problem with installing dependencies while running install batch file
 >
-> Try to run `pip install pandas requests beautifulsoup4 googletrans` in CMD
+> Try to run `pip install pandas requests beautifulsoup4 googletrans` in any bash shell
 
 or you can see all libraries using in `requirements.txt`
 
@@ -77,7 +83,6 @@ or you can see all libraries using in `requirements.txt`
 ### Output of `3347418203_text.json` located in `\data\export\3347418203_text.json` after runing the script
 ```json
 {
-{
   "modify": [
     {
       "match": {
@@ -113,4 +118,4 @@ or you can see all libraries using in `requirements.txt`
 
 ## Know-Issue
 
-Sometimes script out with `Operation Time Out` or `Exit code 200` just re-run the script 
+Sometimes script out with `Operation Time Out` or `Exit code 200` just re-run the script or put translate file more less

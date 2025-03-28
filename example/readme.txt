@@ -1,0 +1,1 @@
+copy all these StripperCS2 json example file to 'data' directory
