@@ -10,7 +10,9 @@
 - Using Google Translate API for translate
 
 > [!IMPORTANT] 
-> This script support only translate Chinese to English only!
+> This script support only translate Chinese to English only! 
+>
+> If you provide others langauge, Output will be the same!
 
 ## Requirements
 
@@ -20,7 +22,7 @@
 ## Installation
 
 Install [python](https://www.python.org/downloads/) and then download this [repository](https://github.com/Kianyaa/CS2-map-text-translator/archive/refs/heads/main.zip), Extract the zip file in any folder and run `install.bat` file to install
-all Python dependencies in this script are required, The translate script will run automatically after installed dependencies
+all Python dependencies in this script are required
 
 > [!NOTE]  
 > `install.bat` file will automatically create virtual environment and activate it for you
@@ -44,7 +46,7 @@ or you can see all libraries using in `requirements.txt`
 
 <br>
 
-### Example of Lump text file `3347418203_text.json`
+### Example Input of Lump text file `3347418203_text.json`
 ```json
 {
   "modify": [
@@ -118,4 +120,4 @@ or you can see all libraries using in `requirements.txt`
 
 ## Know-Issue
 
-Sometimes script out with `Operation Time Out` or `Exit code 200` just re-run the script or put translate file more less
+Sometimes script out with `Operation Time Out` or `Exit code 200` or `RunTimeWarning` just re-run the script again or put the file want to translate more less
